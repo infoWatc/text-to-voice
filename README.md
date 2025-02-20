@@ -62,7 +62,3 @@ pip install edge-tts python-docx pygame
 
 ## **License**
 This project is **open-source** and available for personal and educational use.
-
----
-
-Let me know if you need modifications! 🚀
