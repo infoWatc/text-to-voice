@@ -18,7 +18,7 @@ pip install edge-tts python-docx pygame
 ## **How to Use**
 1. **Run the Program**  
    ```sh
-   python text_to_speech.py
+   python text-to-speech.py
    ```
 2. **Select a File**  
    - Click **"Open File"** to choose a **.txt** or **.docx** file.  
